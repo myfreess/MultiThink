@@ -1,0 +1,3 @@
+用sqlite查看了一下Ehviewer的本地收藏
+
+select * from LOCAL_FAVORITES;

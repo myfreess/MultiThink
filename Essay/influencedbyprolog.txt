@@ -1,0 +1,13 @@
+Datalog
+
+Formulog
+
+Virtual prolog
+
+Logtalk
+
+Mercury
+
+Yedalog
+
+Logica

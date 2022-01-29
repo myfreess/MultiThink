@@ -1,0 +1,10 @@
+现在在手机上感觉nano很适合轻量级的写作和阅读，只需要在nanorc中加入
+
+set mouse
+set softwrap
+set linenumbers
+
+
+就可以让buffer适应屏幕宽度,同时开启触屏支持。
+
+体验不错! 对于一个非常业余的学生来说，这也够了。

@@ -1,0 +1,11 @@
+这几天的划水经历真心是把我笑到了，haskell，你好规范!
+
+Java，C#之流搞设计模式也就一般货色，真要设计还得是haskell，老玩家给已有类型签名的函数填空能填成一样的参数名，一样的body！[a]必为x、xs，[[a]]必为xss，就要这个味，别的8行！Pointfree不可不品，go加foldr遍历无敌！
+
+来源:
+
+https://www.codewars.com/kata/54750ed320c64c64e20002e2
+
+https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+
+有5,6号人答案一个字符都不差,别的语言做的到吗？Python做得到吗？这已经不是同构了!

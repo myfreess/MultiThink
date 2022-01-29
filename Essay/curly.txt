@@ -1,0 +1,19 @@
+
+
+-- haskell中的let、 do等高度依赖缩进的语法其实都可以使用{}来避免缩进问题
+
+case of也可以
+
+-- 如
+
+curry :: (a -> b -> c) -> (a, b) -> c
+curry f p = let {x = fst p;
+                 y = snd p}
+            in f x y
+
+(>==>) :: (Monad m) => (a -> m b) -> (b -> m c) -> a -> m c
+(>==>) f g x = do { r <- f x; g r }
+
+
+
+

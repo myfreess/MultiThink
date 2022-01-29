@@ -1,0 +1,8 @@
+lisp就和二虎流一样，赢了就是lisp方言nb，输了就是虽然像但并不是lisp。
+
+
+设想中的lambda
+
+{|arg1, arg2 ......| body}
+
+要把if和cond扳正，只允许boolean类型作为条件表达式的值。

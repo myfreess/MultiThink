@@ -1,0 +1,28 @@
+Jane : 「晚修的时候在想parser monad为什么是个monad
+突然想到能不能用monad表示hylomorphism
+然后把hylo的类型签名推了一下 发现很像ap functor
+然后想起来kf之前在回答如何理解hylo的时候写到了瓶中之舟
+而ap functor在我的fp书里面 写的也是瓶中之船」
+
+Jane:「挺好的 haskell either functor的 left就 是这个道理吧(」
+
+Ros:R语言自称functional programming，我吐了
+Ros:fp感觉成了附庸风雅的另一种说法
+Ros：这些号称可以fp的语言一个个残缺不齐的实现 让我颇为恶心
+
+kf:自信点,把感觉去掉
+kf:fp不限语言的，实在不行原地实现一个scheme解 释器呗,但某些语言对fp的支持只能说是矢一样
+Ros:的确
+Ros:
+{
+#|r的语法好甜啊|#
+#|甜过头了|#
+#|比haskell的有些还甜，话说你们怎么看语法糖|#
+}
+kf:
+爽
+但是某些语言会把别人早就有的东西翻新一下就当糖卖
+Ros:
+r的语法糖我觉得过度了
+他们vector没有当做functor处理
+

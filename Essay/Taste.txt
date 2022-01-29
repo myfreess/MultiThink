@@ -1,0 +1,1 @@
+对于Forth，haskell，K，Scheme，Prolog这种从语法到方法论都透出一股Unique味的语言，最好不要用一句好或者坏去概括。它们各有各的味。
